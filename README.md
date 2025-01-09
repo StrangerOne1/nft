@@ -1,6 +1,3 @@
 # nft
 
-test
-
-add1
-add2
+data analysis codes for nft project
